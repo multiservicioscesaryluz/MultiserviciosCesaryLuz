@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+.bg-light {
+    background-color: 
+    #1d75cd !important;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #53245c;
+    text-align: left;
+    background-color: #9abcd9;
+}
+.navbar-light .navbar-brand {
+    color: rgba(69,213,182,1.00);
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+    color: 
+    rgba(255,229,18,0.9);
+}
+
+/*Diseños de los titulos*/
+#titulo  {
+	width: 100%;
+	background-color: #B82E30;
+	height: 130px;
+	background-image: url( "../images/cabezera.jpg");
+	background-size: cover;
+	display: table;
+}
+.subtitulo {
+	color:darkorange;
+
+}
+
+.pie01 {
+	background-color:#E1BD5F; 
+}
+.pie02 {
+	background-color:aqua;
+}
